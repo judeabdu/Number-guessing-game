@@ -1,6 +1,6 @@
 # Number Guessing Game (Python)
 
-This project is a command-line number guessing game written in Python.  
+This project is a command-line number guessing game written in Python, it is therefore a CLI based project.  
 The program generates a random number between 1 and 50, and the player must guess the correct number within a limited number of attempts.
 
 ## Description
