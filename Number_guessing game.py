@@ -24,4 +24,4 @@ for trial in range(1,11):
         else:
             print("too low")
 else:
-    print("Game Over, Try later, the number was", secret_number)
+    print("Game Over, Try later, the number was:", secret_number)
